@@ -1,0 +1,5 @@
+*.tfstate*
+*.terraform*
+.devcontainer
+.VSCode*
+*.json
